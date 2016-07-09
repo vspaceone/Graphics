@@ -1,3 +1,5 @@
-# Logo
+# Grafiken vom vspace.one
 
-Logo graphics files
+Logos
+Labels
+
