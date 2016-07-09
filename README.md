@@ -1,5 +1,4 @@
-# Grafiken vom vspace.one
+# Grafiken des vspace.one
 
-Logos
-Labels
+Logos & Labels
 
